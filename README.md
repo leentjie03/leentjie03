@@ -46,19 +46,6 @@ My background blends **frontend craftsmanship** with **backend problem-solving**
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark"/>
-</p>
-
----
-
 ## 📫 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/reabetsoe-kock">
