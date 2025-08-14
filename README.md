@@ -38,13 +38,6 @@ My background blends **frontend craftsmanship** with **backend problem-solving**
 
 ---
 
-## 📌 Featured Projects  
-
-- **[End GBVF Dashboard](#)** – Data visualization platform for municipal staff & civil society groups  
-- **[Portfolio Website](#)** – Personal portfolio showcasing my projects and skills  
-- **[Task Assignment System](#)** – Vue.js-based tool for team collaboration and task tracking  
-
----
 
 ## 📫 Let’s Connect  
 <p align="center">
@@ -56,8 +49,6 @@ My background blends **frontend craftsmanship** with **backend problem-solving**
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue&style=for-the-badge&label=Profile+Views"/>
-</p>
+
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."*  
