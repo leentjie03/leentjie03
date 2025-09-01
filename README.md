@@ -1,5 +1,5 @@
 <!-- Typing effect header -->
-<h1 align="center">Hi there 👋 I'm Leentjie Kock</h1>
+<h1 align="center">Hi there 👋 I'm Rea </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Lifelong+Learner" />
