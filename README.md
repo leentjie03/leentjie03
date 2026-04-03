@@ -35,16 +35,4 @@ My background blends **frontend craftsmanship** with **backend problem-solving**
 ---
 
 
-## 📫 Let’s Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/reabetsoe-kock">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-</p>
-
 ---
-
-
-
-✨ *"Code is like humor. When you have to explain it, it’s bad."*  
