@@ -11,7 +11,6 @@
 I’m a **Software Engineer** with a passion for designing and building **scalable, user-focused applications**.  
 My background blends **frontend craftsmanship** with **backend problem-solving**, creating solutions that are efficient, reliable, and visually engaging.  
 
-- 🎓 Software Engineering Graduate with **6 months industry experience**  
 
 
 ## 🛠 Tech Stack  
